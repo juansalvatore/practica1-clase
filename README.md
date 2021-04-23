@@ -1,2 +1,2 @@
-# practica1-clase
-soy una descripción
+# Practica 1 de git
+Soy un parrafo
